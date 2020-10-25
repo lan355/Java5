@@ -7,3 +7,4 @@ https://minfin.com.ua/help/api/mb/
 https://rapidapi.com/weatherbit/api/weather
 https://developer.accuweather.com/apis
 <li>Реализовать возможность фильтрации и поиска по списку с использованием компараторов в виде лямбда-выражений
+</ul>
